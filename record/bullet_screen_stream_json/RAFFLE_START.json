@@ -1,10 +1,34 @@
 {
-  "cmd": "RAFFLE_START",
-  "roomid": 234024,
-  "data": {
-    "raffleId": 16915,
-    "type": "flower_rain",
-    "from": "爱吃喵姐的鱼",
-    "time": 60
-  }
+  'data': {
+    'type': 'GIFT_20003',
+    'time': 120,
+    'from_user': {
+      'uname': '法国球迷翅翅子',
+      'face': 'http://i2.hdslb.com/bfs/face/879f140b531c05b07d6e44425a84315f85c347e2.jpg'
+    },
+    'from': '法国球迷翅翅子',
+    'payflow_id': '1532246324121600001',
+    'dtime': 120,
+    'asset_tips_pic': 'http://s1.hdslb.com/bfs/live/380bcd708da496d75737c68930965dd67b82879d.png',
+    'title': '摩天大楼抽奖',
+    'asset_animation_pic': 'http://i0.hdslb.com/bfs/live/7e47e9cfb744acd0319a4480e681258ce3a611fe.gif',
+    'id': '83945',
+    'raffleId': 83945,
+    'msg': {
+      'styleType': 2,
+      'rep': 1,
+      'broadcast_type': 0,
+      'cmd': 'SYS_MSG',
+      'msg': '法国球迷翅翅子:?送给:?柚子清清:?一个摩天大楼，点击前往TA的房间去抽奖吧',
+      'roomid': 10120984,
+      'real_roomid': 10120984,
+      'rnd': 1048770951,
+      'msg_text': '法国球迷翅翅子:?送给:?柚子清清:?一个摩天大楼，点击前往TA的房间去抽奖吧',
+      'tv_id': 0,
+      'url': 'http://live.bilibili.com/10120984'
+    },
+    'time_wait': 60,
+    'max_time': 120
+  },
+  'cmd': 'RAFFLE_START'
 }

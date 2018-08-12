@@ -1,17 +1,24 @@
 {
-  "cmd": "RAFFLE_END",
-  "roomid": 521429,
-  "data": {
-    "raffleId": 16897,
-    "type": "flower_rain",
-    "from": "鷺沢怜人",
-    "fromFace": "http://i1.hdslb.com/bfs/face/09eafe44f913012512014e91f25001edf6e072d0.jpg",
-    "win": {
-      "uname": "nbqgd",
-      "face": "http://i1.hdslb.com/bfs/face/09eafe44f913012512014e91f25001edf6e072d0.jpg",
-      "giftId": 115,
-      "giftName": "桃花",
-      "giftNum": 66
-    }
-  }
+  'data': {
+    'fromGiftId': 30013,
+    'from': 'simonsayla',
+    'id': '85232',
+    'mobileTips': '恭喜 楼楼的艾克哥哥最萌QAQ 获得普通扭蛋币×100',
+    'win': {
+      'giftImage': 'http://i0.hdslb.com/bfs/vc/3985d5d504b7b6051dea5e264b6adf3466f37c01.png',
+      'giftName': '普通扭蛋币',
+      'giftNum': 100,
+      'msg': '恭喜<%楼楼的艾克哥哥最萌QAQ%>获得大奖<%普通扭蛋币×100%>, 感谢<%simonsayla%>的赠送',
+      'uname': '楼楼的艾克哥哥最萌QAQ',
+      'giftId': 'normal_capsule_coin',
+      'face': 'http://i0.hdslb.com/bfs/face/061f991b969bc401580459b0903aec0f6616f75c.jpg'
+    },
+    'giftName': '普通扭蛋币×100',
+    'fromFace': 'http://i1.hdslb.com/bfs/face/91f8392f14e71cac85b632b11d09a6a51befd750.jpg',
+    'raffleId': '85232',
+    'uname': '楼楼的艾克哥哥最萌QAQ',
+    'sname': 'simonsayla',
+    'type': 'GIFT_30013'
+  },
+  'cmd': 'RAFFLE_END'
 }

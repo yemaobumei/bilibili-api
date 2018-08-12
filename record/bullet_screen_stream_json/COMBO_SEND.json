@@ -1,0 +1,25 @@
+{
+  'data': {
+    'gift_name': '棒冰',
+    'price': 200,
+    'gift_id': 30011,
+    'combo_num': 1,
+    'start_time': 1532326179,
+    'end_time': 1532326179,
+    'r_uname': '春去丶残秋',
+    'uname': 'Chihiro_铃兰',
+    'guard_level': 0
+  },
+  'cmd': 'COMBO_END'
+}raffleMonitor.py: 121行2018-07-2314: 09: 50,
+178INFO: {
+  'data': {
+    'gift_name': '棒冰',
+    'gift_id': 30011,
+    'combo_num': 15,
+    'action': '赠送',
+    'uname': '抱着黑金金生活的陈弘',
+    'uid': 35323576
+  },
+  'cmd': 'COMBO_SEND'
+}

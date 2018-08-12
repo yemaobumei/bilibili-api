@@ -1,8 +1,8 @@
 {
-  "roomid": 234024,
-  "cmd": "EVENT_CMD",
-  "data": {
-    "event_type": "flower_rain-16915",
-    "event_img": "http://s1.hdslb.com/bfs/static/blive/live-assets/mobile/activity/lover_2018/raffle.png"
-  }
+  'data': {
+    'event_type': 'GIFT-63194',
+    'event_img': 'http://i0.hdslb.com/bfs/live/9a87ac24fd7660c50af7f5269b8425397e34bdb0.png'
+  },
+  'cmd': 'EVENT_CMD',
+  'roomid': 10120984
 }
