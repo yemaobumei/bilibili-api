@@ -1,0 +1,28 @@
+{
+  'roomid': 2071480,
+  'real_roomid': 2071480,
+  'cmd': 'NOTICE_MSG',
+  'msg_type': 2,
+  'shield_uid': -1,
+  'full': {
+    'tail_icon_fa': 'http://i0.hdslb.com/bfs/live/38cb2a9f1209b16c0f15162b0b553e3b28d9f16f.png',
+    'time': 20,
+    'color': '#FFFFFFFF',
+    'highlight': '#FDFF2FFF',
+    'head_icon_fa': 'http://i0.hdslb.com/bfs/live/77983005023dc3f31cd599b637c83a764c842f87.png',
+    'head_icon': 'http://i0.hdslb.com/bfs/live/00f26756182b2e9d06c00af23001bc8e10da67d0.webp',
+    'background': '#62A0F4FF',
+    'tail_icon': 'http://i0.hdslb.com/bfs/live/822da481fdaba986d738db5d8fd469ffa95a8fa1.webp'
+  },
+  'link_url': 'http://live.bilibili.com/2071480?live_lottery_type=1&broadcast_type=0&from=28003&extra_jump_from=28003',
+  'msg_self': '娱乐区广播: <%怪咖遇奇葩走路萌萌嗒%>送给<%檀兮_%>1个摩天大楼，快来抽奖吧',
+  'half': {
+    'time': 15,
+    'color': '#FFFFFFFF',
+    'highlight': '#FDFF2FFF',
+    'background': '#62A0F4FF',
+    'head_icon': 'http://i0.hdslb.com/bfs/live/358cc52e974b315e83eee429858de4fee97a1ef5.png',
+    'tail_icon': ''
+  },
+  'msg_common': '娱乐区广播: <%怪咖遇奇葩走路萌萌嗒%>送给<%檀兮_%>1个摩天大楼，点击前往TA的房间去抽奖吧'
+}
